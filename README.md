@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdullah+Waqar;Full+Stack+Developer;MERN+Stack+Developer;Building+WorkPilot+🚀;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 # Hi 👋 I'm Abdullah Waqar
 ## 🚀 Full Stack Developer (MERN)
 I'm a Computer Science student from Pakistan.
