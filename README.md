@@ -49,8 +49,8 @@ A Smart Work Management System with
 - Pakistan Digital Voting System
 - Parking Management System
 ## 📫 Contact
-03268591728
-GitHub:
+03268591728 Whatsapp
+GitHub Link:
 https://github.com/Abdullahcoder-hub
 
 ⭐ Always learning something new.
