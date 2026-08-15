@@ -1,14 +1,34 @@
+<!-- Animated Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=200&section=header&text=Abdullah%20Waqar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <a href="https://github.com/Abdullahcoder-hub">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%A1;Python+%26+FastAPI+Developer+%F0%9F%90%8D;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Building+Real-World+Software+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullahcoder-hub&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+</p>
+
+---
+
 # 👋 Hi, I'm Abdullah Waqar
 
 ### 🚀 Full Stack Developer | MERN Stack | Python | AI Enthusiast
 
 I'm a Computer Science student and Full Stack Developer from Pakistan 🇵🇰 passionate about building modern, scalable and practical software applications.
 
-I enjoy working with **Full Stack Development, Backend Engineering, AI, APIs, Databases, Real-Time Systems and Cloud Technologies**.
+I enjoy working with **Full Stack Development, Backend Engineering, Artificial Intelligence, APIs, Databases, Real-Time Systems and Cloud Technologies.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -263,7 +283,7 @@ A software system designed to manage parking operations, vehicles and parking re
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/abdullah-waqar-8564b5379/">
 <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Waqar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -271,6 +291,10 @@ A software system designed to manage parking operations, vehicles and parking re
 
 <a href="mailto:abdullahwaqar533@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/923268591728">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://github.com/Abdullahcoder-hub">
@@ -289,10 +313,16 @@ I'm continuously working on real-world projects to improve my skills in **softwa
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-If you find my projects useful, consider giving them a ⭐
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
 
 <p align="center">
   <b>Let's build something amazing together! 🚀</b>
+</p>
+
+<!-- Animated Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:36BCF7&height=120&section=footer" width="100%" />
 </p>
