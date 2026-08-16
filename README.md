@@ -177,7 +177,7 @@ An **AI-powered code review platform** designed to help developers understand, d
 
 # 🧹 Watermark Remover
 
-A document-processing application currently being developed for removing watermarks from documents while maintaining document quality and structure.
+A document-processing application currently under development to remove watermarks from documents while maintaining document quality and structure.
 
 ### ✨ Features
 
@@ -252,8 +252,8 @@ A software system designed to manage parking operations, vehicles and parking re
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahcoder-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahcoder-hub&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 ---
 
