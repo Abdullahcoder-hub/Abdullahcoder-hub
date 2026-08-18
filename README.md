@@ -257,14 +257,6 @@ A software system designed to manage parking operations, vehicles and parking re
 </p>
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullahcoder-hub&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * 🚀 Build production-ready applications
