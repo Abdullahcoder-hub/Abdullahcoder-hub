@@ -299,7 +299,7 @@ A software system designed to manage parking operations, vehicles and parking re
 
 > **Keep Learning. Keep Building. Keep Improving. 🚀**
 
-I'm continuously working on real-world projects to improve my skills in **software development, backend engineering, artificial intelligence, cloud technologies and system design.**
+I'm continuously working on real-world projects to improve my skills in **software development, backend engineering, artificial intelligence, cloud technologies, and system design.**
 
 ---
 
