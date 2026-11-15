@@ -85,60 +85,51 @@ A full-stack **AI-powered work management and collaboration platform** designed 
 ### ✨ Key Features
 
 * 🤖 **AI Assistant**
-
   * AI-powered workplace assistant
   * Intelligent responses
   * Productivity assistance
   * AI-powered task assistance
 
 * 💬 **Real-Time Chat System**
-
   * Team-to-team messaging
   * Real-time communication
   * Socket.IO powered updates
 
 * 📎 **File Uploading & Sharing**
-
   * File uploads
   * File sharing
   * Task/project attachments
 
 * 👥 **Team Management**
-
   * Employee management
   * Team management
   * Team Lead functionality
   * Department management
 
 * 📋 **Task Management**
-
   * Create tasks
   * Assign tasks
   * Track progress
   * Task status management
 
 * 📊 **Dashboard & Analytics**
-
   * Productivity statistics
   * Task analytics
   * Team performance
   * Reporting
 
 * 🔐 **Authentication & Security**
-
   * JWT Authentication
   * Role-Based Access Control
   * Protected routes
   * Admin permissions
 
 * 🔔 **Notifications**
-
   * Task notifications
   * Team updates
   * Real-time notifications
 
 * 🏢 **Project Management**
-
   * Project creation
   * Project tracking
   * Team assignment
@@ -150,7 +141,138 @@ A full-stack **AI-powered work management and collaboration platform** designed 
 
 ---
 
-# 🤖 AI Code Reviewer
+## 📚 Assignment Submission Portal — Academic Management & Assessment Platform
+
+A full-stack academic management platform designed to simplify assignment submissions, online assessments, student management, and academic activities.
+
+The platform provides dedicated portals for Students, Teachers, Coordinators, CRs, and Administrators.
+
+### ✨ Key Features
+
+* 👨‍🎓 **Student Management**
+  * Student Registration & Login
+  * Email Verification
+  * Student Profiles
+  * Roll Number Management
+  * Google Authentication
+
+* 👨‍🏫 **Teacher Management**
+  * Dedicated Teacher Accounts
+  * Teacher Dashboard
+  * Create and Manage Quizzes
+  * Create and Manage Questions
+  * View Student Quiz Results
+  * Monitor Student Performance
+
+* 🏢 **Coordinator Management**
+  * Dedicated Coordinator Accounts
+  * Coordinator Dashboard
+  * Manage Teachers and Students
+  * Manage Subjects and Sections
+  * Monitor Assignments and Quizzes
+  * Academic Activity Management
+
+* 📝 **Online Quiz System**
+  * Create and Schedule Quizzes
+  * Multiple-Choice Questions (MCQs)
+  * Quiz Time Limits
+  * Automatic Result Calculation
+  * Instant Result Generation
+  * Student Quiz Tracking
+  * Quiz Attempt Management
+
+* 🔒 **Quiz Security & Anti-Cheating**
+  * Browser Tab-Switch Detection
+  * Page Visibility Monitoring
+  * Browser Back Navigation Detection
+  * Automatic Quiz Locking or Submission on Violations
+  * Restricted Quiz Re-entry
+  * Quiz Violation Tracking
+  * Violation Timestamps
+  * Teacher & Coordinator Violation Reports
+
+* 📚 **Subject Management**
+  * Create and Manage Subjects
+  * Subject-Based Assignment Organization
+  * Section Management
+
+* 📤 **Assignment Submission**
+  * Online Assignment Upload
+  * Multiple File Support
+  * Submission Tracking
+  * Submission Timestamp
+  * Submission Confirmation Emails
+
+* 🛡️ **Admin & CR Dashboard**
+  * Centralized Dashboard
+  * Manage Students
+  * Manage Subjects
+  * View Assignment Submissions
+  * Access Student Submission Details
+  * Download Student Submissions
+
+* 📁 **File Management & Export**
+  * Individual File Downloads
+  * Bulk ZIP Downloads
+  * Document Processing
+  * PDF Export
+  * Combined Assignment Export
+
+* 📧 **Email Notifications**
+  * Brevo Email Integration
+  * Submission Confirmation Emails
+  * Automated Email Notifications
+
+* 🔐 **Authentication & Security**
+  * JWT Authentication
+  * Role-Based Access Control
+  * Protected Routes
+  * Secure File Handling
+  * Role-Based Dashboard Access
+
+* 📱 **Responsive Interface**
+  * Mobile-Friendly Design
+  * Responsive Student Portal
+  * Teacher Dashboard
+  * Coordinator Dashboard
+  * Admin Dashboard
+
+### 🧰 Tech Stack
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Brevo` `Docker`
+
+### ☁️ Deployment
+
+`Vercel` `Render`
+
+> ✅ **Developed Project**
+
+---
+
+## 🧹 Watermark Remover
+
+A document-processing application developed to detect and remove watermarks from documents while maintaining document quality, structure, and readability.
+
+### ✨ Features
+
+* 📄 Document Upload
+* 🖼️ Image & Document Processing
+* 🧹 Watermark Detection & Removal
+* 👀 Preview Before Processing
+* 📥 Processed File Export
+* 🔒 Secure File Handling
+* ⚡ FastAPI Backend
+* 🐳 Docker Support
+
+### 🧰 Tech Stack
+
+`Python` `FastAPI` `React` `Vite` `Docker`
+
+> ✅ **Developed Project**
+
+---
+
+## 🤖 AI Code Reviewer
 
 An **AI-powered code review platform** designed to help developers understand, debug and improve their code.
 
@@ -169,36 +291,13 @@ An **AI-powered code review platform** designed to help developers understand, d
 
 ### 🧰 Tech Stack
 
-`Python` `FastAPI` `React` `Vite` `AI / LLMs`
+`Python` `FastAPI` `React` `Vite` `AI / LLMs` `PostgreSQL` `Redis` `Celery`
 
-> 🚧 **Currently in development**
-
----
-
-# 🧹 Watermark Remover
-
-A document-processing application currently under development to remove watermarks from documents while maintaining document quality and structure.
-
-### ✨ Features
-
-* 📄 Document Upload
-* 🖼️ Image & Document Processing
-* 🧹 Watermark Detection & Removal
-* 👀 Preview Before Processing
-* 📥 Processed File Export
-* 🔒 Secure File Handling
-* ⚡ FastAPI Backend
-* 🐳 Docker Support
-
-### 🧰 Tech Stack
-
-`Python` `FastAPI` `React` `Vite` `Docker`
-
-> 🚧 **Currently in development**
+> 🚧 **Currently in Development**
 
 ---
 
-# 🗳️ Pakistan Digital Voting System
+## 🗳️ Pakistan Digital Voting System
 
 A digital voting management project focused on creating a structured and efficient voting workflow.
 
@@ -210,13 +309,13 @@ A digital voting management project focused on creating a structured and efficie
 * 📊 Election Management
 * 📈 Results & Reporting
 
-### 🧰 Tech
+### 🧰 Tech Stack
 
 `Full Stack Web Technologies`
 
 ---
 
-# 🅿️ Parking Management System
+## 🅿️ Parking Management System
 
 A software system designed to manage parking operations, vehicles and parking records.
 
@@ -228,7 +327,7 @@ A software system designed to manage parking operations, vehicles and parking re
 * 💰 Parking Fee Management
 * 📊 Records & Reports
 
-### 🧰 Tech
+### 🧰 Tech Stack
 
 `C++`
 
@@ -249,70 +348,18 @@ A software system designed to manage parking operations, vehicles and parking re
 * 📡 REST APIs
 
 ---
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="./profile/stats.svg" height="170" />
   <img src="./profile/top-langs.svg" height="170" />
 </p>
+
 ---
 
 # 🎯 2026 Goals
 
 * 🚀 Build production-ready applications
 * 🤖 Build more AI-powered applications
-* 🐍 Become stronger in Python & FastAPI
-* 🐳 Master Docker & Containerization
-* ☁️ Improve cloud deployment skills
-* 🔐 Learn advanced backend security
-* 🏗️ Improve system design skills
-* 💼 Build professional SaaS products
-* 🌎 Contribute to Open Source
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abdullah-waqar-8564b5379/">
-<img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Waqar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:abdullahwaqar533@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://wa.me/923268591728">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://github.com/Abdullahcoder-hub">
-<img src="https://img.shields.io/badge/GitHub-Abdullahcoder--hub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 💡 My Philosophy
-
-> **Keep Learning. Keep Building. Keep Improving. 🚀**
-
-I'm continuously working on real-world projects to improve my skills in **software development, backend engineering, artificial intelligence, cloud technologies, and system design.**
-
----
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <b>Let's build something amazing together! 🚀</b>
-</p>
-
-<!-- Animated Footer -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:36BCF7&height=120&section=footer" width="100%" />
-</p>
+* 🐍 Become stronger
